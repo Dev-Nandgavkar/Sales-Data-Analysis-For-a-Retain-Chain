@@ -1,3 +1,8 @@
+-- MySQL Workbench 8.0 
+
+-- Created new database to load csv files from local system
+-- Dataset Link -> https://www.kaggle.com/datasets/regivm/retailtransactiondata
+
 CREATE DATABASE Project;
 USE Project;
 
